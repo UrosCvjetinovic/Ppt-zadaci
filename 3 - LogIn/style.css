@@ -1,0 +1,26 @@
+.Container{
+	margin:auto;
+	width:400px;
+	height:400px;
+	background-color:gray;
+	padding: 10px;
+}
+
+.LogIn{
+	margin:auto;
+}
+.LogIn p{
+	font-size:18px;
+}
+.UspesnoLogovanje{
+	color:green;
+	font-size:22px;
+	font-weight:bold;
+	text-align:center;
+}
+.Greska{
+	color:red;
+	font-size:22px;
+	font-weight:bold;
+	text-align:center;
+}
